@@ -1,9 +1,9 @@
-### Hey, I'm Karly!
+# Hey, I'm Karly!
 18-year-old learner & creator sitting in the art corner of the bookstore.
 
 ### 🌱 I'm currently working on ...
 - Studying math, CS, government, economics, & some other bits at Harvard
-- Creating a platform for educational equity & accessibility at [Wave Learning Festival](https://www.wavelf.org)
+- Creating a platform for educational equity & accessibility at [Wave Learning Festival](https://www.wavelf.org) (we're recruiting!)
 - Acquiring more Spanish, French, Portuguese, & Mandarin
 
 ### 🌲 I've worked on ...
