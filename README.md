@@ -1,5 +1,5 @@
 # Hey, I'm Karly!
-18-year-old learner & creator sitting in the art corner of the bookstore.
+19-year-old learner & creator sitting in the art corner of the bookstore.
 
 ### 🌱 I'm currently working on ...
 - Studying math, CS, government, economics, & some other bits at Harvard
@@ -10,7 +10,7 @@
 - A self-updating caches framework @ Two Sigma
 - A deep learning waste sorting system @ NVIDIA
 - Novel simulations to model light transport & polymer interactions in ternary blend organic solar cells @ Stony Brook University
-- Teaching health & leadership to Chinese elementary schoolers @ my org, [Healthy Kids International](https://www.healthykidsinternational.org)
+- Teaching health & leadership to Chinese elementary schoolers @ [Healthy Kids International](https://www.healthykidsinternational.org)
 
 ### 🎨 I also love ...
 - The making & viewing of contemporary art
