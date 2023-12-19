@@ -2,12 +2,13 @@
 22-year-old learner & creator sitting in the art corner of the bookstore.
 
 ### 🌱 I'm currently working on ...
-- Studying CS, math, philosophy, economics, writing, & some other bits at Harvard
+- Studying CS, math, philosophy, economics, writing, & some other bits @ Harvard
+- Research on Gaussian splatting, algorithmic fairness, efficient ML models, and ML-augmented algorithms @ Harvard
 - Creating a platform for educational equity & accessibility at [Wave Learning Festival](https://www.wavelf.org) (we're recruiting!)
 - Acquiring more Mandarin, Spanish, French, & German
 
 ### 🌲 I've worked on ...
-- Gaussian splatting, algorithmic fairness, efficient ML models, ML-augmented algorithms, systems simulations, comp neuro @ Harvard
+- Research on systems simulations, comp neuro, education and hiring interventions @ Harvard
 - Security, user research, and product marketing @ Bubble
 - Sales plays @ Bain
 - A faster trade allocation system @ D. E. Shaw
